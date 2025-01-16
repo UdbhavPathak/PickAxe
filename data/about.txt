@@ -1,0 +1,3 @@
+Pick Axe is a 2D player versus player game ..
+The game has only one axe and the one who picks the axe first gets to use it..
+There are portals and Various Powerups to make the game more interesting and fun..
